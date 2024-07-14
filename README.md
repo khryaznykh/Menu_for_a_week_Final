@@ -1,10 +1,12 @@
 ### Weekly Meal Plan app 
 Front-end application developed to create weekly/daily meal plans with a list of ingridients necessary for those meals. Easy to add/delete/modify meals of the day.
 
+
 ## Technologies used
 - React single page application
 - Local storage used to safe the meal plans
-- Using props, map method, UseEffect and UseState
+- Using props, map, UseEffect and UseState
+
 
 This app helps to create a daily meal plan for multiple days. Easy to navigate
 # Getting Started with Create React App
@@ -77,3 +79,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# This app is very user friendly
+You siply press on to "Add" button to add/create a new "day", then click on it and you'll see the fields where you can input information about the day, the actual meals that you're planning to make, and all the ingridients that you would need.
+
+If there is any issues with the code don't hesitate to email me to katehryaznykh@gmail.com with subject "GitHub issue"
+
+This project can be used in learning/training purposes.
