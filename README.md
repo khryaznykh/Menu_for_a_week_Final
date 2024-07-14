@@ -82,7 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # This app is very user friendly
-You siply press on to "Add" button to add/create a new "day", then click on it and you'll see the fields where you can input information about the day, the actual meals that you're planning to make, and all the ingridients that you would need.
+You simply press on to "Add" button to add/create a new "day", then click on it and you'll see the fields where you can input information about the day, the actual meals that you're planning to make, and all the ingridients that you would need.
 
 If there is any issues with the code don't hesitate to email me to katehryaznykh@gmail.com with subject "GitHub issue"
 
